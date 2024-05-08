@@ -20,9 +20,10 @@
 #  API 명세서 확인하기 :white_check_mark:
 
 :seedling: API
+https://docs.google.com/spreadsheets/d/1pDxCDA1zES6tPC77bVFMHiruynDBK2p3rEJFKEWpVeI/edit?usp=sharing
 
 # 프로젝트 구조 :globe_with_meridians:
-<img width="721" alt="스크린샷 2024-03-01 오후 4 37 48" src="">
+<img width="721" alt="스크린샷 2024-05-08 오후 4 37 48" src="https://github.com/Ooyd/MSA-toy-repo/blob/master/assets/img/prj_str.png">
 
 # 기술 스택 :toolbox:
 :seedling: Spring Boot 3.2 
